@@ -1,0 +1,9 @@
+# Terraform internfiler
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Lokale variabler
+terraform.tfvars
+*.tfvars
